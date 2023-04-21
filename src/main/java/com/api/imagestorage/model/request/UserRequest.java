@@ -15,5 +15,5 @@ public class UserRequest {
 
 	private String email;
 
-	private MultipartFile image;
+	private MultipartFile avatar;
 }

@@ -25,5 +25,5 @@ public class User {
 	
 	private String email;
 	
-	private String image;
+	private String avatar;
 }
